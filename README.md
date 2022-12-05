@@ -3,3 +3,5 @@
 [These guys](https://bigsoundbank.com/) provided the sounds).
 
 Built with [Vite](https://vitejs.dev/)
+
+[TRY IT](https://astonef.github.io/Drum_machine/)
